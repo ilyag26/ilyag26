@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ilya!
 
-👨‍💻 Data Analyst 
-📊 Focused on **Data Analytics**, but also passionate about building **modern web applications**.  
-📈 Continuously improving my skills across backend, frontend, and analytics.  
+👨‍💻 Data Analyst</br>
+📊 Focused on **Data Analytics**, but also passionate about building **modern web applications**.</br>  
+📈 Continuously improving my skills across backend, frontend, and analytics.</br>
 
 ### ⚙️ Tech Stack
 
