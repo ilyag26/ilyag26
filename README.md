@@ -1,3 +1,15 @@
-# 👋Hi, i'm Ilya!
-👨‍💻 Frontend/Backend developer<br>
-📈 Currently I am improving my knowledge in backend and frontend development<br>
+# 👋 Hi, I'm Ilya!
+
+👨‍💻 Data Analyst 
+📊 Focused on **Data Analytics**, but also passionate about building **modern web applications**.  
+📈 Continuously improving my skills across backend, frontend, and analytics.  
+
+### ⚙️ Tech Stack
+
+**Data Analytics:** Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy, etc.), SQL  
+**Backend:** Python (FastAPI, Flask), JavaScript (Node.js)  
+**Frontend:** React  
+
+💡 Currently working in **Data Analytics**, creating insights and visualizations from complex datasets.  
+💡 Enthusiast in developing **modern web applications** with scalable and efficient architectures.
+
